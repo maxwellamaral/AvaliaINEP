@@ -10,8 +10,8 @@ created: 2024-05-16T18:07:00
 # Dependências entre indicadores para análise
 
 ```mermaid
+%%{init: {'theme': 'dark'}}%%
 flowchart TD
-
     id1.1(1.1 - PDI):::green
 	id1.2(1.2 - Objetivos do curso):::green
 	id1.3(1.3 - Perfil do egresso):::green
