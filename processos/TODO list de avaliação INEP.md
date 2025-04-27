@@ -1,0 +1,72 @@
+---
+aliases: 
+tags:
+  - INEP
+status:
+  - "#general-notes"
+created: 2025-04-03T21:08
+updated: 2025-04-27T18:41
+---
+
+- [ ] Verificar e registrar no relatório conforme [[#Despacho saneador]]
+	- [ ] se o **prazo de integralização do curso** atende
+		- [ ] a DCN ou CNCST
+		- [ ] legislação e
+		- [ ] se é compatível com PPC
+	- [ ] se a **carga horária** atende
+		- [ ] a DCN ou CNCST,
+		- [ ] legislação e
+		- [ ] se é compatível com PPC
+	- [ ] se os **componentes obrigatórios**
+		- [ ] estágio
+			- [ ] é obrigatório?
+			- [ ] a DCN ou CNCST,
+			- [ ] legislação e
+			- [ ] se é compatível com PPC
+		- [ ] atividades complementares
+			- [ ] é obrigatório?
+			- [ ] a DCN ou CNCST,
+			- [ ] legislação e
+			- [ ] se é compatível com PPC
+		- [ ] TCC
+			- [ ] é obrigatório?
+			- [ ] a DCN ou CNCST,
+			- [ ] legislação e
+			- [ ] se é compatível com PPC
+	- [ ] se o **número de vagas**
+		- [ ] verifique se para autorização ou reconhecimento
+		- [ ] está adequado à dimensão do corpo docente
+		- [ ] está adequado à dimensão do corpo de tutores
+		- [ ] está adequado à infraestrutura física
+		- [ ] está adequado à infraestrutura tecnológica
+	- [ ] se está prevista a **modalidade EaD**
+		- [ ] na organização pedagógica
+		- [ ] na organização curricular
+		- [ ] se a **carga horária** atende ao estabelecido na [[Portaria nº 2117-2019]], especialmente os [[Portaria nº 2117-2019#^art2|arts. 2º]], [[Portaria nº 2117-2019#^art3|3º]] e [[Portaria nº 2117-2019#^art4|4º]]:
+			- [ ] [[Portaria nº 2117-2019#^art2|Art. 2º]] --> **40% EaD** nos cursos presenciais
+				- [ ] Ver no PPC (deve estar claro)
+					- [ ] a **matriz curricular**
+						- [ ] indica o percentual de carga horária EAD? (registrar)
+						- [ ] indica as metodologias a serem utilizadas? (registrar)
+						- [ ] indica a forma de integralização da CH das disciplinas ofertadas em EaD? (registrar)
+					- [ ] o **percentual de CH EAD** (ver mínimo ou máximo em DCN, se for o caso)
+						- [ ] para IES deve cumprir 200h anuais, no mínimo [Lei 9394/1996, art. 42](https://www.planalto.gov.br/ccivil_03/leis/L9394compilado.htm)
+						- [ ] registrar no relatório
+					- [ ] **metodologias**
+						- [ ] atividades extracurriculares são considerados para cálculo (até 40%)
+			- [ ] [[Portaria nº 2117-2019#^art3|Art. 3º]] --> **atividades presenciais na modalidade EaD** deve ser realizadas no endereço de oferta do curso
+			- [ ] [[Portaria nº 2117-2019#^art4|Art. 4º]] --> deve ter uso de TI quando EAD
+				- [ ] **infraestrutura** adequada
+				- [ ] **material didático** adequado
+				- [ ] **qualificação de docentes** OK com PPC e plano de disciplina
+				- [ ] **qualificação de tutores** OK com PPC e plano de disciplina
+				- [ ] **qualificação de profissionais** da educação OK
+				- [ ] **plano de ensino** deve descrever as atividades EAD
+	- [ ] se tem **disciplina de Libras** (Decreto nº 5.626/2005)
+		- [ ] obrigatório se _Licenciatura_
+	- [ ] se tem a temática de **Direitos Humanos** (Resolução CNE/CP nº 1/2012)
+	- [ ] se tem a temática **Educação das Relações Étnico-Raciais e o Ensino de História e Cultura Afro-Brasileira e Africana** (Resolução CNE/CP nº 1/2004
+	- [ ] se tem a temática **História e Cultura Afro-Brasileira e Indígena** (Lei nº 11.645/2008)
+	- [ ] se tem a temática **Educação Ambiental** (Lei nº 11.645/2008)
+	- [ ] se tem a temática **Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista** (Lei nº 12.764/2012)
+	- [ ] se possui **Curricularização da Extensão** (Resolução 07/2018 ? CNE/CES)
