@@ -5,6 +5,7 @@ tags:
 status:
   - "#zettel/permanent"
 created: "{{date}} {{time}}"
+updated: 2025-04-27T14:35
 ---
 # 1.3 Perfil profissional do egresso (A/R)
 
@@ -110,8 +111,8 @@ Portanto, ainda que estes indicadores não se remetam diretamente às DCN, tamb�
 ### Legislação relacionada
 
 - As DCNs se encontram em <http://portal.mec.gov.br/component/content/article?id=12991>
- 	- [[DCN Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
- 	- [[DCN Resolução CNE-CP nº 1-2021 para Ensino Profissional Tecnológico.pdf]]
+ 	- [[DCN Computação Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
+ 	- [[DCN Computação Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
   		- Para cursos CST, conforme o art. 30, o PPC de EPT de "Graduação a serem submetidas à devida aprovação dos órgãos competentes (…) devem conter, pelo menos, os seguintes itens: (…) V - perfil profissional de conclusão, definindo claramente as competências profissionais a serem desenvolvidas, as competências profissionais
    			- *tecnológicas*,
    			- *gerais* e
@@ -121,7 +122,7 @@ Portanto, ainda que estes indicadores não se remetam diretamente às DCN, tamb�
 - O CNCST se encontra em;
  	- [Novo Catálogo Nacional de Cursos Tecnológicos](https://cncst.mec.gov.br/cursos?pagina=1&eixo=&areatecnologica=&filtro=vigentes&ordenacao=asc&query=cibern%C3%A9tica)
  	- [[Catálogo Nacional de Cursos Superiores de Tecnologia 2016.pdf]]
- 	- Ver também [[observações importantes sobre o INEP e as avaliações#Sobre novo catálogo nacional de CST]].
+ 	- Ver também [[Observações importantes sobre o INEP e as avaliações#Sobre novo catálogo nacional de CST]].
 
 # Constatação do avaliador
 
@@ -129,7 +130,7 @@ Portanto, ainda que estes indicadores não se remetam diretamente às DCN, tamb�
 
 Referência:
 
-- [[observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+- [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
 - [[#Reconhecimento]]
 - [[#Legislação relacionada]]
 

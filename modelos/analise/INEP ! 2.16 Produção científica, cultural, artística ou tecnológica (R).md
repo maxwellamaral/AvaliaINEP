@@ -5,6 +5,7 @@ tags:
 status:
   - "#zettel/permanent"
 created: "{{date}} {{time}}"
+updated: 2025-04-27T14:35
 ---
 # 2.16 Produção científica, cultural, artística ou tecnológica (R)
 
@@ -72,7 +73,7 @@ N/A
 
 ## Justificativa
 
-Referência: [[observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
 
 > **Pelo menos 50%** dos docentes possuem […] produção nos últimos 3 anos.
 

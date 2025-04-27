@@ -5,6 +5,7 @@ tags:
 status:
   - "#zettel/permanent"
 created: "{{date}} {{time}}"
+updated: 2025-04-27T14:35
 ---
 # 1.4 Estrutura curricular (A/R)
 
@@ -29,7 +30,7 @@ Reconhecimento: _Disciplina de LIBRAS obrigatória para licenciaturas e para Fon
 
 Referência: [[11a. Evidências possíveis para as 3 dimensões da avaliação.pdf]]
 
-Sobre carga horária, ver [[observações importantes sobre o INEP e as avaliações#Sobre o conceito de hora-aula]]
+Sobre carga horária, ver [[Observações importantes sobre o INEP e as avaliações#Sobre o conceito de hora-aula]]
 
 ### Autorização
 
@@ -95,12 +96,12 @@ A [[Resolução MEC-CNE nº 07-2018 - Diretrizes para a Extensão.pdf|Resoluçã
 ### Legislação relacionada
 
 - As DCNs se encontram em <http://portal.mec.gov.br/component/content/article?id=12991>
- 	- [[DCN Resolução CNE-CES nº 5 de 16-11-2016.pdf]], DCN da área de Computação.
- 	- [[DCN Resolução CNE-CP nº 1-2021 para Ensino Profissional Tecnológico.pdf]]
+ 	- [[DCN Computação Resolução CNE-CES nº 5 de 16-11-2016.pdf]], DCN da área de Computação.
+ 	- [[DCN Computação Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
 - O CNCST se encontra em;
  	- [[Catálogo Nacional de Cursos Superiores de Tecnologia 2022.pdf]].
  	- [[Catálogo Nacional de Cursos Superiores de Tecnologia 2016.pdf]]
- 	- Ver também [[observações importantes sobre o INEP e as avaliações#Sobre novo catálogo nacional de CST]].
+ 	- Ver também [[Observações importantes sobre o INEP e as avaliações#Sobre novo catálogo nacional de CST]].
 - Pareceres
  	- [[Parecer CNE-CES nº 436-2001, CS em Tecnologia.pdf#page=17|Parecer CNE/CES nº 436/2001]], contém informações sobre cargas horárias.
 
@@ -126,7 +127,7 @@ _Conceito 5_
 
 Referência:
 
-- [[observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+- [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
 - [[#Reconhecimento]]
 - [[#Legislação relacionada]]
 

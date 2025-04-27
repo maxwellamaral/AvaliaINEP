@@ -5,6 +5,7 @@ tags:
 status:
   - "#zettel/fletting"
 created: "{{date}} {{time}}"
+updated: 2025-04-27T14:35
 ---
 # 1.14 Atividades de tutoria (A/R)
 
@@ -76,12 +77,12 @@ XXXXX
 ### Legislação relacionada
 
 - As DCNs se encontram em <http://portal.mec.gov.br/component/content/article?id=12991>
- 	- [[DCN Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
- 	- [[DCN Resolução CNE-CP nº 1-2021 para Ensino Profissional Tecnológico.pdf]]
+ 	- [[DCN Computação Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
+ 	- [[DCN Computação Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
 - O CNCST se encontra em;
  	- [[Catálogo Nacional de Cursos Superiores de Tecnologia 2022.pdf]].
  	- [[Catálogo Nacional de Cursos Superiores de Tecnologia 2016.pdf]]
- 	- Ver também [[observações importantes sobre o INEP e as avaliações#Sobre novo catálogo nacional de CST]].
+ 	- Ver também [[Observações importantes sobre o INEP e as avaliações#Sobre novo catálogo nacional de CST]].
 
 ### Questões norteadoras
 
@@ -96,7 +97,7 @@ XXXXX
 
 ## Justificativa
 
-Referência: [[observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
 
 Com base nas informações fornecidas e na análise detalhada dos artefatos apensados ao e-MEC e documentação enviada pela IES, corroborados através de reuniões, e da visita à infraestrutura, é atribuído o conceito indicado neste formulário. Esta classificação é respaldada pelas seguintes considerações:
 

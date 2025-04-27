@@ -5,6 +5,7 @@ tags:
 status:
   - "#zettel/permanent"
 created: "{{date}} {{time}}"
+updated: 2025-04-27T14:35
 ---
 # 3.5 Acesso dos alunos a equipamentos de informática (A/R)
 
@@ -30,8 +31,8 @@ Reconhecimento: N/A
 Referência:
 
 - [[11a. Evidências possíveis para as 3 dimensões da avaliação.pdf]]
-- [[observações importantes sobre o INEP e as avaliações#Atribuição de conceitos, entendimento]]
-- [[observações importantes sobre o INEP e as avaliações#Melhores Práticas na Redação de Justificativas]]
+- [[Observações importantes sobre o INEP e as avaliações#Atribuição de conceitos, entendimento]]
+- [[Observações importantes sobre o INEP e as avaliações#Melhores Práticas na Redação de Justificativas]]
 - [[RECONHECIMENTO COMO ATRIBUIR CONCEITOS FINAL.pdf#page=5]]
 
 XXXXX
@@ -83,7 +84,7 @@ Mesmo que seja possível que o reconhecimento de curso aconteça antes de a prim
 
 ## Justificativa
 
-Referência: [[observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
 
 Com base nas informações fornecidas e na análise detalhada dos artefatos apensados ao e-MEC e documentação enviada pela IES, corroborados através de reuniões, e da visita à infraestrutura, é atribuído o conceito indicado neste formulário. Esta classificação é respaldada pelas seguintes considerações:
 

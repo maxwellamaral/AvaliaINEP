@@ -5,6 +5,7 @@ tags:
 status:
   - "#zettel/permanent"
 created: "{{date}} {{time}}"
+updated: 2025-04-27T14:35
 ---
 # 2.10 Experiência no exercício da docência no EaD (R)
 
@@ -60,7 +61,7 @@ XXXXX
 
 ## Justificativa
 
-Referência: [[observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
 
 Com base nas informações fornecidas e na análise detalhada dos artefatos apensados ao e-MEC e documentação enviada pela IES, corroborados através de reuniões, é atribuído o conceito indicado neste formulário. Esta classificação é respaldada pelas seguintes considerações:
 

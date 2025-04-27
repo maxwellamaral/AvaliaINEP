@@ -5,6 +5,7 @@ tags:
 status:
   - "#zettel/literature"
 created: "{date} {time}"
+updated: 2025-04-27T14:35
 ---
 # 3.7 Bibliografia complementar por Unidade Curricular (UC)
 

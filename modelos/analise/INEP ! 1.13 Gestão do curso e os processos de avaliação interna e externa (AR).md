@@ -5,6 +5,7 @@ tags:
 status:
   - "#zettel/permanent"
 created: "{{date}} {{time}}"
+updated: 2025-04-27T14:35
 ---
 # 1.13 Gestão do curso e os processos de avaliação interna e externa (A/R)
 
@@ -71,7 +72,7 @@ Referência: [[11a. Evidências possíveis para as 3 dimensões da avaliação.p
 
 ## Justificativa
 
-Referência: [[observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
 
 _Introdução da justificativa:_
 

@@ -5,6 +5,7 @@ tags:
 status:
   - "#zettel/permanent"
 created: "{{date}} {{time}}"
+updated: 2025-04-27T14:35
 ---
 # 1.6 Metodologia (A/R)
 
@@ -94,12 +95,12 @@ A metodologia deve estar prevista no PPC, demonstrando como é desenvolvida a es
 ### Legislação relacionada
 
 - As DCNs se encontram em <http://portal.mec.gov.br/component/content/article?id=12991>
- 	- [[DCN Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
- 	- [[DCN Resolução CNE-CP nº 1-2021 para Ensino Profissional Tecnológico.pdf]]
+ 	- [[DCN Computação Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
+ 	- [[DCN Computação Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
 - O CNCST se encontra em;
  	- [[Catálogo Nacional de Cursos Superiores de Tecnologia 2022.pdf]].
  	- [[Catálogo Nacional de Cursos Superiores de Tecnologia 2016.pdf]]
- 	- Ver também [[observações importantes sobre o INEP e as avaliações#Sobre novo catálogo nacional de CST]].
+ 	- Ver também [[Observações importantes sobre o INEP e as avaliações#Sobre novo catálogo nacional de CST]].
 
 ### Questões norteadoras
 
@@ -127,7 +128,7 @@ Como se vê, há necessidade de identificar interfaces com os indicadores relati
 
 Referência:
 
-- [[observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+- [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
 - [[#Autorização]]
 - [[#Reconhecimento]]
 - [[#Legislação relacionada]]

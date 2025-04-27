@@ -4,6 +4,7 @@ tags:
 status:
   - "#zettel/permanent"
 created: "{{date}} {{time}}"
+updated: 2025-04-27T14:35
 ---
 # 3.6 Bibliografia básica por Unidade Curricular (A/R)
 
@@ -71,13 +72,13 @@ Referência: [[11a. Evidências possíveis para as 3 dimensões da avaliação.p
 - Contratos (ou equivalentes) que descrevem as condições para o fornecimento de acesso aos periódicos especializados
 
 > [!info] Observações importantes sobre a análise de indicadores das bibliografias
-> As observações estão em [[observações importantes sobre o INEP e as avaliações#Exemplo de Análise de Indicadores - Bibliografia básica e complementar]]
+> As observações estão em [[Observações importantes sobre o INEP e as avaliações#Exemplo de Análise de Indicadores - Bibliografia básica e complementar]]
 
 # Constatação do avaliador
 
 ## Resumo
 
-Referência: [[observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
 
 Com base nas informações fornecidas e na análise detalhada dos artefatos apensados ao e-MEC e documentação enviada pela IES, corroborados através de reuniões, e da visita à infraestrutura, é atribuído o conceito indicado neste formulário. Esta classificação é respaldada pelas seguintes considerações:
 
@@ -107,12 +108,12 @@ Com base nas informações fornecidas e na análise detalhada dos artefatos apen
 > [!question] Questões norteadoras
 >
 > - O acervo da biblioteca é físico, virtual ou misto?
-> - [[observações importantes sobre o INEP e as avaliações#^acervo|Ele está tombado e está informatizado?]]
+> - [[Observações importantes sobre o INEP e as avaliações#^acervo|Ele está tombado e está informatizado?]]
 > - Está registrado no nome da IES?
-> - [[observações importantes sobre o INEP e as avaliações#^matriz|O acervo é adequado às disciplinas e ao conteúdo?]] Ele está atualizado? [^1]
-> - [[observações importantes sobre o INEP e as avaliações#^nde|Há relatório do NDE]], conforme definição do Glossário[^2]?
-> - Os alunos conseguem acessar o acervo virtual da própria instituição? [[observações importantes sobre o INEP e as avaliações#^contrato|Há garantia de acesso ininterrupto?]] Há disponibilidade total ao acervo da bibliografia básica virtual por 24 horas, em todos os dias da semana (inclusive sábados, domingos e feriados)?[^3]
-> - [[observações importantes sobre o INEP e as avaliações#^fisico|As instalações permitem atender à demanda?]]
+> - [[Observações importantes sobre o INEP e as avaliações#^matriz|O acervo é adequado às disciplinas e ao conteúdo?]] Ele está atualizado? [^1]
+> - [[Observações importantes sobre o INEP e as avaliações#^nde|Há relatório do NDE]], conforme definição do Glossário[^2]?
+> - Os alunos conseguem acessar o acervo virtual da própria instituição? [[Observações importantes sobre o INEP e as avaliações#^contrato|Há garantia de acesso ininterrupto?]] Há disponibilidade total ao acervo da bibliografia básica virtual por 24 horas, em todos os dias da semana (inclusive sábados, domingos e feriados)?[^3]
+> - [[Observações importantes sobre o INEP e as avaliações#^fisico|As instalações permitem atender à demanda?]]
 > - Há oferta permanente pela internet?
 > - Há ferramentas de acessibilidade?
 > - Há soluções de apoio à leitura, ao estudo e à aprendizagem?
@@ -130,7 +131,7 @@ a) XXXX
 
 > [!question] Questões norteadoras
 >
-> - [[observações importantes sobre o INEP e as avaliações#^periodicos|Há periódicos disponibilizados, com assinatura?]]
+> - [[Observações importantes sobre o INEP e as avaliações#^periodicos|Há periódicos disponibilizados, com assinatura?]]
 
 > [!info] Observações
 > Consulte [[#Evidências para o indicador]].
@@ -146,7 +147,7 @@ x) XXXX
 
 > [!question] Questões norteadoras
 >
-> - [[observações importantes sobre o INEP e as avaliações#^e14ea6|O acervo é gerenciado de modo a atualizar a quantidade de exemplares e/ou assinaturas de acesso mais demandadas, (físico e virtual)?]]
+> - [[Observações importantes sobre o INEP e as avaliações#^e14ea6|O acervo é gerenciado de modo a atualizar a quantidade de exemplares e/ou assinaturas de acesso mais demandadas, (físico e virtual)?]]
 > - É adotado um plano de contingência para a garantia do acesso e do serviço (físico e virtual)?
 
 > [!info] Observações
@@ -160,7 +161,7 @@ Portanto, com base nas observações acima, o conceito atribuído é X.
 
 ### Anotações
 
-![[observações importantes sobre o INEP e as avaliações#^exemplo-justificativa]]
+![[Observações importantes sobre o INEP e as avaliações#^exemplo-justificativa]]
 
 [^1]: _Comentário_: nesse caso, há duas fontes para julgar a adequação dos títulos em função do conteúdo das unidades curriculares: a análise da própria comissão de avaliação considerando a <u>matriz curricular</u>, o <u>perfil do egresso</u> e os <u>planos de ensino</u> das unidades curriculares; e a manifestação do Núcleo Docente Estruturante (NDE). _Evidências_: para além da verificação da comissão, deve-se considerar o <u>relatório emitido pelo NDE</u> (embora a avaliação não deva considerar somente esse relatório).
 [^2]: **Acervo tradicional**: "é uma coleção de livros organizados a partir de uma classificação do conhecimento humano, inserida em um ambiente físico, ou seja, encerrada entre paredes"; **Acervo virtual**: quando está ligada à realidade virtual, que utilize ferramentas para acesso à informação no ambiente virtual. Acervo virtual é o conteúdo de uma coleção privada ou pública, podendo set de caráter bibliográfico, artístico, fotográfico, científico, histórico, documental ou misto e com acesso universal via internet.

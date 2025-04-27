@@ -5,6 +5,7 @@ tags:
 status:
   - "#zettel/permanent"
 created: "{{date}} {{time}}"
+updated: 2025-04-27T14:35
 ---
 # 2.1 Núcleo Docente Estruturante (AR)
 
@@ -63,9 +64,9 @@ XXXXX
 #### Específicos
 
 - Avaliação o NDE formalizado, implantado e a sua atuação de acordo com o critério de análise atributos.
-- [[DCN Resolução CNE-CP nº 1-2021 para Ensino Profissional Tecnológico.pdf]]
+- [[DCN Computação Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
 - [[DCN PARECER CNE-CES nº 136-2012.pdf]]
-- [[DCN Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
+- [[DCN Computação Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
 - [[Catálogo Nacional de Cursos Superiores de Tecnologia 2022.pdf]]
 - [[Catálogo Nacional de Cursos Superiores de Tecnologia 2016.pdf]]
 
@@ -79,7 +80,7 @@ Ao avaliar o NDE, busca-se a atuação centrada no acompanhamento do PPC, que co
 
 ## Justificativa
 
-Referência: [[observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
 
 Com base nas informações fornecidas e na análise detalhada dos artefatos apensados ao e-MEC e documentação enviada pela IES, corroborados através de reuniões, é atribuído o conceito indicado neste formulário. Esta classificação é respaldada pelas seguintes considerações:
 

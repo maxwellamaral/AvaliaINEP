@@ -3,6 +3,8 @@ aliases:
 tags: 
 status:
   - "#zettel/permanent"
+created: 2025-04-24T20:42
+updated: 2025-04-27T14:35
 ---
 # 3.3 Sala coletiva de professores (AR)
 
@@ -70,7 +72,7 @@ XXXXX
 
 ## Resumo
 
-Referência: [[observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
 
 Com base nas informações fornecidas e na análise detalhada dos artefatos apensados ao e-MEC e documentação enviada pela IES, corroborados através de reuniões, e da visita à infraestrutura, é atribuído o conceito indicado neste formulário. Esta classificação é respaldada pelas seguintes considerações:
 

@@ -4,6 +4,7 @@ tags:
 status:
   - "#zettel/permanent"
 created: "{{date}} {{time}}"
+updated: 2025-04-27T14:35
 ---
 # 3.18 Ambientes profissionais vinculados ao curso (A/R)
 

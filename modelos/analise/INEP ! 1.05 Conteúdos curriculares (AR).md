@@ -5,6 +5,7 @@ tags:
 status:
   - "#zettel/permanent"
 created: "{{date}} {{time}}"
+updated: 2025-04-27T14:35
 ---
 # 1.5 Conteúdos curriculares (A/R)
 
@@ -73,12 +74,12 @@ Referência: [[11a. Evidências possíveis para as 3 dimensões da avaliação.p
 ### Legislação relacionada
 
 - As DCNs se encontram em <http://portal.mec.gov.br/component/content/article?id=12991>
- 	- [[DCN Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
- 	- [[DCN Resolução CNE-CP nº 1-2021 para Ensino Profissional Tecnológico.pdf]]
+ 	- [[DCN Computação Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
+ 	- [[DCN Computação Resolução CNE-CES nº 5 de 16-11-2016.pdf]]
 - O CNCST se encontra em;
  	- [[Catálogo Nacional de Cursos Superiores de Tecnologia 2022.pdf]].
  	- [[Catálogo Nacional de Cursos Superiores de Tecnologia 2016.pdf]]
- 	- Ver também [[observações importantes sobre o INEP e as avaliações#Sobre novo catálogo nacional de CST]].
+ 	- Ver também [[Observações importantes sobre o INEP e as avaliações#Sobre novo catálogo nacional de CST]].
 - Legislação específica
  	- [[Parecer CNE-CES nº 436-2001, CS em Tecnologia.pdf|Parecer CNE/CES 436/2001]] - Anexo A (horas mínimas de CH para cursos CST que não constam no catálogo. Ver justificativa na planilha de exemplos.)
 - Despachos saneadores anteriores
@@ -99,7 +100,7 @@ Referência: [[11a. Evidências possíveis para as 3 dimensões da avaliação.p
 
 Referência:
 
-- [[observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+- [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
 - [[#Autorização]]
 - [[#Reconhecimento]]
 - [[#Legislação relacionada]]

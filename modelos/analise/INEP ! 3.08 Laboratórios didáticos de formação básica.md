@@ -1,7 +1,9 @@
 ---
 aliases: 
 tags: 
-status:
+status: 
+created: 2025-04-24T20:42
+updated: 2025-04-27T14:35
 ---
 tags:: #INEP/3-8
 
