@@ -7,7 +7,7 @@ tags:
 status:
   - "#zettel/permanent"
 created: 2024-08-24T20:28
-updated: 2025-04-27T18:40
+updated: 2025-04-28T17:27
 ---
 
 # Processo proposto
@@ -97,18 +97,18 @@ updated: 2025-04-27T18:40
 			4. Verificar observações relacionadas ao despacho saneador
 			5. **Perguntas** ^perguntascoordenador
 				1. Como a IES identificou a necessidade de criação do curso?
-				2. Quanto tempo você tem de experiência na área de [curso]?
-				3. Você atua como coordenador em mais de um curso?
-				4. O sr. teve alguma experiência na educação básica? (*cursos de licenciatura e para CST da Rede Federal de Educação Profissional, Científica e Tecnológica*)
-				5. Verificar com o coordenador questões relacionadas a sala da coordenação.
-				6. Você faz parte dos colegiados superiores? Como é a sua relação com o NDE?
-				7. Existem indicadores de desempenho da coordenação, podendo ser os utilizados pela CPA? Estão disponíveis e são públicos?
-				8. Existe planos de ação documentado e compartilhado?
-				9. Como você administra as expertises e as potencialidades do corpo docente?
-				10. Como são realizadas ações relacionadas à melhoria contínua?
-				11. Possuem alunos com deficiência?
-				12. Qual o seu regime de trabalho?
-				13. Qual o seu horário de atendimento do aluno?
+				2. Qual o seu regime de trabalho?
+				3. Qual o seu horário de atendimento do aluno?
+				4. Quanto tempo você tem de experiência na área de [curso]?
+				5. Você atua como coordenador em mais de um curso?
+				6. O sr. teve alguma experiência na educação básica? (*cursos de licenciatura e para CST da Rede Federal de Educação Profissional, Científica e Tecnológica*)
+				7. Verificar com o coordenador questões relacionadas a sala da coordenação.
+				8. Você faz parte dos colegiados superiores? Como é a sua relação com o NDE?
+				9. Existem indicadores de desempenho da coordenação, podendo ser os utilizados pela CPA? Estão disponíveis e são públicos?
+				10. Existe planos de ação documentado e compartilhado?
+				11. Como você administra as expertises e as potencialidades do corpo docente?
+				12. Como são realizadas ações relacionadas à melhoria contínua?
+				13. Possuem alunos com deficiência?
 				14. Quais componentes/disciplinas utilizam os recursos EaD? (*para cursos presenciais*)
 	4. Reunião com Equipe Multidisciplinar:
 		1. **Documentação**
@@ -131,6 +131,8 @@ updated: 2025-04-27T18:40
 				8. Qual o papel do tutor neste processo?
 				9. Qual a infraestrutura é utilizada para abarcar as ferramentas pedagógicas. As tecnologias são inseridas na IES ou em nuvem contratada?
 				10. Quais os princípios pedagógicos são utilizados para desenvolvimento dos recursos didáticos? Existe algo formalizado ou foram desenvolvendo de acordo com o tempo?
+				11. Como os materiais didáticos são distribuídos?
+				12. Quando não é utilizado ou não existe uma bibliografia disponível para um determinado assunto obrigatório (**educação ambiental**, educação em **direitos humanos**, educação das **relações étnico-raciais**, o ensino de **história e cultura afro-brasileira, africana e indígena**), como podemos obter acesso ao material para análise? Como ela é disponibilizada para o estudante?
 	5. Reunião com NDE
 		1. **Documentação**
 			1. #TODO
@@ -197,13 +199,11 @@ updated: 2025-04-27T18:40
 			3. Averigue as ações da avaliação institucional para o curso e como ele se beneficia
 			4. Nem sempre todos os membros podem estar presentes. Não é adequado exigir a presença de todos.
 			5. **Perguntas**: ^perguntaCPA
-				1. Como são realizadas as atividades da CPA?
-				2. Como são realizadas as autoavaliações? Qual a periodicidade?
-				3. Como essas informações são apropriadas pela IES e a comunidade acadêmica? Existe algum planejamento?
-				4. Existe alguma boa prática ou resultado factível oriundo das ações da CPA?
-				5. A sociedade civil participa das ações da CPA?
-				6. Temos acesso às informações da CPA?
-				7. ~~Consideram o ambiente apropriado?~~
+				1. Como são realizadas as atividades da CPA? Como são realizadas as autoavaliações? Qual a periodicidade?
+				2. Como essas informações são apropriadas pela IES e a comunidade acadêmica? Existe algum planejamento?
+				3. Existe alguma boa prática ou resultado factível oriundo das ações da CPA?
+				4. A sociedade civil participa das ações da CPA?
+				5. Temos acesso às informações da CPA?
 	8. Reunião com os discentes
 		1. **Documentação**
 			1. #TODO

@@ -10,7 +10,6 @@ state: "[[Final]]"
 ---
 
 ```mermaid
-%%{init: {'theme': 'dark'}}%%
 flowchart TD
     id1.1(1.1 - PDI):::green
 	id1.2(1.2 - Objetivos do curso):::green
