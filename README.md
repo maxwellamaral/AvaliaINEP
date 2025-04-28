@@ -1,6 +1,6 @@
 ---
 created: 2025-04-24T21:07
-updated: 2025-04-28T17:27
+updated: 2025-04-28T17:32
 ---
 # AvaliaINEP
 
@@ -38,6 +38,3 @@ Ao realizar uma avaliação, recomenda-se:
 7. Em 'Avaliação' colocar cada indicador que será analisado, conforme constam os modelos da pasta `modelos\analise`;
 8. Recomenda-se seguir [[Dependências entre indicadores para análise]] (na pasta `processos`) para sequenciamento lógico da análise. O diagrama é baseado no Mermaid e é muito útil para consolidar a coerência de toda a análise a ser realizada, pois a análise de um indicador contribuirá para elucidação de outros indicadores posteriores.
 
-> Observação
-> [[Dependências entre indicadores e artefatos]] ainda está em desenvolvimento.
->
