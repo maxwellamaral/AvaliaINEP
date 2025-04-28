@@ -299,10 +299,6 @@ XXXXXXXXXX
 
 XXXXXXXXXX
 
-**Imagens**
-
-XXXXXXXXXX
-
 ---
 
 ## Discentes
