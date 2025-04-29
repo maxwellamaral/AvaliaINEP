@@ -1,7 +1,4 @@
 ---
-aliases: []
-tags: []
-status: 
 created: 2025-04-24T21:07
 updated: 2025-04-29T12:35
 state: "[[Rascunho]]"
@@ -11,16 +8,15 @@ state: "[[Rascunho]]"
 
 Templates do [Obsidian](https://obdisian.md) para auxílio à avaliação de cursos superiores em Tecnologia Computacional
 
-Está em constante revisão, ainda é um rascunho. 😊
-
-> [!attention] Atenção!
-**Recomenda-se fortemente conferir sempre os conteúdos oficiais.** Este material **jamais** substituirá os procedimentos indicados e orientados pelo INEP. Desatualizações ou inconsistências podem ocorrer naturalmente. **Farei** atualizações **conforme** **atender a** demandas do INEP.
+> **Atenção!**
+>
+> **Recomenda-se fortemente conferir sempre os conteúdos oficiais.** Este material **jamais** substituirá os procedimentos indicados e orientados pelo INEP. Desatualizações ou inconsistências podem ocorrer naturalmente. **Farei** atualizações **conforme** **atender a** demandas do INEP.
 >
 > Resolvi compartilhar este material, que **utilizo** durante minhas designações, na esperança de que seja útil **aos** colegas.
 >
 > Informo também que sou **apenas** um avaliador ad hoc, sem vínculo permanente com o INEP. Sou docente, Cientista da Computação e Engenheiro de Software, com experiência de mercado em **melhoria e auditoria da qualidade de processos em engenharia de software**. O material foi concebido com base em conhecimentos técnicos e experiência com avaliações nestas áreas (Computação e afins). Não atuo como consultor.
 >
-> Pedidos de ajustes são bem-vindos através de Pull Requests.
+> Está em constante revisão, ainda é um rascunho. Pedidos de ajustes são bem-vindos através de Pull Requests.
 
 ## Organização dos modelos
 
@@ -41,7 +37,8 @@ Este material foi otimizado para uso com o [Obsidian](https://www.google.com/ur
 2. **Configure a Pasta de Modelos:** Defina a pasta modelos deste vault como a sua pasta padrão de modelos nas configurações do Obsidian.
 3. **Configure a Pasta de Novas Notas:** Defina o local padrão para salvar novas notas conforme sua preferência (por exemplo, na raiz do vault ou em uma pasta específica).
 
-> [!tip] Alternativa: VSCode  
+> Alternativa: VSCode  
+>
 > O [Visual Studio Code](https://www.google.com/url?sa=E&q=https%3A%2F%2Fcode.visualstudio.com%2F) também pode ser utilizado. Extensões como Foam, Markdown All in One e Markdown Preview Enhanced oferecem funcionalidades semelhantes para trabalhar com notas em Markdown e visualizar diagramas. No entanto, a integração e a experiência de uso podem ser mais fluidas no Obsidian, especialmente com os plugins recomendados.
 
 **Fluxo de Trabalho Sugerido para Avaliação:**
@@ -55,9 +52,13 @@ Este material foi otimizado para uso com o [Obsidian](https://www.google.com/ur
 7. **Analise os Indicadores:** Na pasta Avaliacao, crie uma nota para cada indicador a ser analisado, utilizando os modelos correspondentes disponíveis na pasta modelos/analise.
 8. **Considere as Dependências:** Consulte o diagrama [[Dependências entre indicadores para análise]] (na pasta processos) para um sequenciamento lógico da análise. Este diagrama (Mermaid) ajuda a garantir a coerência entre os indicadores, mostrando como a análise de um pode subsidiar a de outros.
 
+<div>
+<video controls src="assets/sistema_de_produtividade_obsidian.mp4" title="Sistema de Produtividade"></video>
+</div>
+
 ## Sobre os diagramas e mapas mentais
 
-![[README - image 001.png]]
+![Exemplo de Diagrama](<imagens/README - image 001.png>)
 
 Exemplo de diagrama de dependências entre indicadores de avaliação (disponível completamente em [[Dependências entre indicadores para análise]]).
 
@@ -76,6 +77,9 @@ Exemplo de diagrama de dependências entre indicadores de avaliação (disponív
  3. Após consolidar essa análise, obtêm-se dados e informações relevantes para os indicadores subsequentes, como os indicadores 1.13 e 3.18 (conforme ilustrado no diagrama).
  4. **Observe** que as setas no diagrama indicam o fluxo de informações entre os indicadores. Por exemplo, a análise do indicador 1.1 pode utilizar informações do 1.5. **Perceba** ainda que dados do indicador 1.13 também podem subsidiar a análise do 1.1, complementando-a.
 
+<div>
+ <video controls src="assets/sistema_de_produtividade_obsidian_diagrama.mp4" title="Digrama de dependências entre indicadores de avaliação"></video>
+</div>
 ---
 
 **Motivação para o Diagrama:**
