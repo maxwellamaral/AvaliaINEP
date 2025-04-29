@@ -1,10 +1,7 @@
 ---
 aliases: 
 tags: 
-status:
-  - "#zettel/permanent"
-created: "{{date}} {{time}}"
-updated: 2025-04-27T14:35
+state: "[[Drafting]]"
 ---
 # 3.6 Bibliografia básica por Unidade Curricular (A/R)
 
@@ -33,7 +30,7 @@ Referência: [[11a. Evidências possíveis para as 3 dimensões da avaliação.p
 
 #### Gerais
 
-- xxxxxxxx
+- #TODO
 
 #### Específicos
 
@@ -48,7 +45,7 @@ Referência: [[11a. Evidências possíveis para as 3 dimensões da avaliação.p
 - Formulário eletrônico
 - Documentos
   - PDI – disponibilizado no e-MEC
-  - _PPC – disponibilizado no e-MEC_
+  - PPC – disponibilizado no e-MEC
 - Reuniões | entrevista | diálogos | relatos
   - Abordar temas relativos a infraestrutura com todos os segmentos
 
