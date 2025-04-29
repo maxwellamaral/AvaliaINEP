@@ -52,13 +52,13 @@ Este material foi otimizado para uso com o [Obsidian](https://www.google.com/ur
 7. **Analise os Indicadores:** Na pasta Avaliacao, crie uma nota para cada indicador a ser analisado, utilizando os modelos correspondentes disponíveis na pasta modelos/analise.
 8. **Considere as Dependências:** Consulte o diagrama [[Dependências entre indicadores para análise]] (na pasta processos) para um sequenciamento lógico da análise. Este diagrama (Mermaid) ajuda a garantir a coerência entre os indicadores, mostrando como a análise de um pode subsidiar a de outros.
 
-[![Sistema de produtividade com Obsidian para avaliação de cursos superiores](https://img.youtube.com/vi/03DgCbd7eDg/maxresdefault.jpg)](https://www.youtube.com/watch?v=03DgCbd7eDg)
+<center>
+	<a src="https://www.youtube.com/watch?v=03DgCbd7eDg"><img src="https://i.ytimg.com/vi/03DgCbd7eDg/hqdefault.jpg"></a>
+</center>
 
 ## Sobre os diagramas e mapas mentais
 
 ![Exemplo de Diagrama](<imagens/README - image 001.png>)
-
-Exemplo de diagrama de dependências entre indicadores de avaliação (disponível completamente em [[Dependências entre indicadores para análise]]).
 
 - As caixas <font color="#00b050">verdes</font> são indicadores da Dimensão I
 - As caixas <font color="#95b3d7">azuis</font> são indicadores da Dimensão II
@@ -75,7 +75,9 @@ Exemplo de diagrama de dependências entre indicadores de avaliação (disponív
  3. Após consolidar essa análise, obtêm-se dados e informações relevantes para os indicadores subsequentes, como os indicadores 1.13 e 3.18 (conforme ilustrado no diagrama).
  4. **Observe** que as setas no diagrama indicam o fluxo de informações entre os indicadores. Por exemplo, a análise do indicador 1.1 pode utilizar informações do 1.5. **Perceba** ainda que dados do indicador 1.13 também podem subsidiar a análise do 1.1, complementando-a.
 
-[![Diagrama de Dependências](https://img.youtube.com/vi/AgqybYmIoCBxriRs/maxresdefault.jpg)](https://www.youtube.com/watch?v=AgqybYmIoCBxriRs)
+<center>
+	<a src="https://www.youtube.com/watch?v=IsS4KB2Pxcg"><img src="https://i.ytimg.com/vi/IsS4KB2Pxcg/hqdefault.jpg"></a>
+</center>
 
 ---
 
