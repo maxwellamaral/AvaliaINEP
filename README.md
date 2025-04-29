@@ -54,7 +54,11 @@ Este material foi otimizado para uso com o [Obsidian](https://www.google.com/ur
 
 <center>
 	<a href="https://www.youtube.com/watch?v=03DgCbd7eDg"><img src="https://i.ytimg.com/vi/03DgCbd7eDg/hqdefault.jpg"></a>
+	<p>
+		<small>Exemplo em vídeo</small>
+	</p>
 </center>
+
 
 ## Sobre os diagramas e mapas mentais
 
@@ -77,6 +81,9 @@ Este material foi otimizado para uso com o [Obsidian](https://www.google.com/ur
 
 <center>
 	<a href="https://www.youtube.com/watch?v=IsS4KB2Pxcg"><img src="https://i.ytimg.com/vi/IsS4KB2Pxcg/hqdefault.jpg"></a>
+	<p>
+		<small>Exemplo em vídeo</small>
+	</p>	
 </center>
 
 ---
