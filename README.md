@@ -53,7 +53,7 @@ Este material foi otimizado para uso com o [Obsidian](https://www.google.com/ur
 8. **Considere as Dependências:** Consulte o diagrama [[Dependências entre indicadores para análise]] (na pasta processos) para um sequenciamento lógico da análise. Este diagrama (Mermaid) ajuda a garantir a coerência entre os indicadores, mostrando como a análise de um pode subsidiar a de outros.
 
 <center>
-	<a src="https://www.youtube.com/watch?v=03DgCbd7eDg"><img src="https://i.ytimg.com/vi/03DgCbd7eDg/hqdefault.jpg"></a>
+	<a href="https://www.youtube.com/watch?v=03DgCbd7eDg"><img src="https://i.ytimg.com/vi/03DgCbd7eDg/hqdefault.jpg"></a>
 </center>
 
 ## Sobre os diagramas e mapas mentais
@@ -76,7 +76,7 @@ Este material foi otimizado para uso com o [Obsidian](https://www.google.com/ur
  4. **Observe** que as setas no diagrama indicam o fluxo de informações entre os indicadores. Por exemplo, a análise do indicador 1.1 pode utilizar informações do 1.5. **Perceba** ainda que dados do indicador 1.13 também podem subsidiar a análise do 1.1, complementando-a.
 
 <center>
-	<a src="https://www.youtube.com/watch?v=IsS4KB2Pxcg"><img src="https://i.ytimg.com/vi/IsS4KB2Pxcg/hqdefault.jpg"></a>
+	<a href="https://www.youtube.com/watch?v=IsS4KB2Pxcg"><img src="https://i.ytimg.com/vi/IsS4KB2Pxcg/hqdefault.jpg"></a>
 </center>
 
 ---
