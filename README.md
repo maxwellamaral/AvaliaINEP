@@ -1,6 +1,6 @@
 ---
 created: 2025-04-24T21:07
-updated: 2025-04-29T13:05
+updated: 2025-05-02T12:46
 state: "[[Rascunho]]"
 ---
 
@@ -45,7 +45,7 @@ Este material foi otimizado para uso com o [Obsidian](https://www.google.com/ur
 
 1. **Crie a Pasta da Avaliação:** Para melhor organização, crie uma pasta específica para cada avaliação, usando um padrão como: `123456 RRC SIGLA-IES Nome do curso`.
 2. **Siga os Processos Definidos:** Consulte e siga as diretrizes descritas nos documentos [[Processo de avaliação INEP]] e [[TODO list de avaliação INEP]] (localizados na pasta processos).
-3. **Análise Preliminar:** Utilize o modelo [[INEP ! AP]] na raiz da pasta da avaliação para registrar sua análise preliminar offline e orientações iniciais.
+3. **Análise Preliminar:** Utilize o modelo [[01 - Projects/03 Work/INEP ! Processo de avaliação/avaliaINEP/src/public/modelos/gerais/INEP ! AP]] na raiz da pasta da avaliação para registrar sua análise preliminar offline e orientações iniciais.
 4. **Resumo Inicial:** Utilize o modelo [[INEP ! Resumo inicial da avaliação]], também na raiz, para consolidar dados iniciais, despacho saneador, etc.
 5. **Estruture as Subpastas:** Crie as subpastas Documentacao e Avaliacao dentro da pasta principal da avaliação.
 6. **Adicione os Documentos Base:** Na pasta Documentacao, salve os arquivos do PPC e PDI da IES (documentos públicos) para consulta e análise.
