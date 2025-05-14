@@ -2,11 +2,31 @@
 aliases: 
 tags: 
 status:
-  - "#zettel/permanent"
-created: 2025-04-24T20:42
-updated: 2025-04-27T14:35
+note-from-form: {
+	"file-name": "t:{{num}} 3.03 Sala coletiva de professores ({{tipo}})",
+	"form-items": [
+		{
+			"id": "num",
+			"type": "number",
+			"form": {
+				"title": "Avaliação nº",
+				"description": "Código da avaliação",
+				"placeholder": "XXXXXX"
+			}
+		},
+		{
+			"id": "tipo",
+			"type": "text",
+			"form": {
+				"title": "Tipo de avaliação",
+				"description": "Autorização (AUT), Reconhecimento (REC) ou Renovação para Reconhecimento (RRC)?",
+				"placeholder": "REC"			
+			}
+		}
+	]
+}
 ---
-# 3.3 Sala coletiva de professores (AR)
+# 3.03 Sala coletiva de professores (AR)
 
 tags:: #INEP/3-3
 
@@ -27,9 +47,7 @@ Todos: _NSA para IES que possui espaço de trabalho individual para todos os doc
 
 # Evidências para o indicador
 
-Referência: [[11a. Evidências possíveis para as 3 dimensões da avaliação.pdf]]
-
-XXXXX
+Referência: [[Fontes de evidências em 3 dimensões.pdf#page=4]]
 
 ### Autorização
 
@@ -59,43 +77,55 @@ XXXXX
 - Ao realizar as visitas os diálogos e relatos de responsáveis pelos setores acrescentam evidências à avaliação.
 - Nas reuniões com todos os segmentos buscar a comprovação do acesso e uso dos recursos.
 
-### Questões norteadoras
-
-- A sala coletiva de professores viabiliza o trabalho docente?
-- A sala coletiva de professores apresenta acessibilidade?
-- A sala coletiva de professores possui recursos de tecnologias da informação e comunicação?
-- A sala coletiva de professores permite o descanso e atividades de lazer e integração?
-- A sala coletiva de professores dispõe de apoio técnico-administrativo próprio?
-- A sala coletiva de professores possui espaço para a guarda de equipamentos e materiais?
 
 # Constatação do avaliador
 
 ## Resumo
 
-Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa válida]]
 
 Com base nas informações fornecidas e na análise detalhada dos artefatos apensados ao e-MEC e documentação enviada pela IES, corroborados através de reuniões, e da visita à infraestrutura, é atribuído o conceito indicado neste formulário. Esta classificação é respaldada pelas seguintes considerações:
 
 #### Atributos conceito 3
 
-> A sala coletiva de professores **viabiliza** o trabalho docente,
->
-> - **apresenta** acessibilidade,
-> - **possui** recursos de tecnologias da informação e comunicação
-> - **apropriados** para o quantitativo de docentes,
+> [!quote] Atributos
+> - [ ] A sala coletiva de professores **viabiliza** o trabalho docente,
+> 	- [ ] **apresenta** acessibilidade,
+> 	- [ ] **possui** recursos de tecnologias da informação e comunicação
+> 	- [ ] **apropriados** para o quantitativo de docentes,
 
-.
+> [!question] Questões norteadoras
+> - [ ] A sala coletiva de professores viabiliza o trabalho docente?
+> - [ ] A sala coletiva de professores apresenta acessibilidade?
+> - [ ] A sala coletiva de professores possui recursos de tecnologias da informação e comunicação?
+
+*Justificativas:*
+
+XXXX
 
 #### Atributos conceito 4
 
-> - **permite** o descanso e atividades de lazer e integração
+> [!quote] Atributos
+> - [ ] **permite** o descanso e atividades de lazer e integração
 
-.
+> [!question] Questões norteadoras
+> - [ ] A sala coletiva de professores permite o descanso e atividades de lazer e integração?
+
+*Justificativas:*
+
+XXXX
 
 #### Atributos conceito 5
 
-> - e **dispõe** de apoio técnico-administrativo próprio e espaço para a guarda de equipamentos e materiais.
+> [!quote] Atributos
+> - [ ] e **dispõe** de apoio técnico-administrativo próprio e espaço para a guarda de equipamentos e materiais.
 
-.
+> [!question] Questões norteadoras
+> - [ ] A sala coletiva de professores dispõe de apoio técnico-administrativo próprio?
+> - [ ] A sala coletiva de professores possui espaço para a guarda de equipamentos e materiais?
+
+*Justificativas:*
+
+XXXX
 
 Portanto, com base nas observações acima, o conceito atribuído é X.

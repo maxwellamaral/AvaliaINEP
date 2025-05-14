@@ -3,9 +3,20 @@ aliases:
 tags:
   - INEP/2-15
 status:
-  - "#zettel/permanent"
-created: "{{date}} {{time}}"
-updated: 2025-04-27T14:35
+note-from-form: {
+	"file-name": "t:{{num}} 2.15 Interação entre tutores",
+	"form-items": [
+		{
+			"id": "num",
+			"type": "number",
+			"form": {
+				"title": "Avaliação nº",
+				"description": "Código da avaliação",
+				"placeholder": "XXXXXX"
+			}
+		}
+	]
+}
 ---
 # 2.15 Interação entre tutores (presenciais – quando for o caso – e a distância), docentes e coordenadores de curso a distância
 
@@ -28,19 +39,7 @@ Reconhecimento: XXXX
 
 # Evidências para o indicador
 
-Referência: [[11a. Evidências possíveis para as 3 dimensões da avaliação.pdf]]
-
-XXXXX
-
-### Autorização
-
-#### Gerais
-
-- xxxxxxxx
-
-#### Específicos
-
-- xxxxxxx
+Referência: [[Fontes de evidências em 3 dimensões.pdf#page=4]]
 
 ### Reconhecimento
 
@@ -52,44 +51,50 @@ XXXXX
 
 #### Específicos
 
-- xxxxxxx
-
-### Questões norteadoras
-
-- xxxxxxxxx
+- N/A
 
 # Constatação do avaliador
 
 ## Justificativa
 
-Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa válida]]
 
 Com base nas informações fornecidas e na análise detalhada dos artefatos apensados ao e-MEC e documentação enviada pela IES, corroborados através de reuniões, é atribuído o conceito indicado neste formulário. Esta classificação é respaldada pelas seguintes considerações:
 
 #### Atributos conceito 3
 
+> [!quote] Atributos
 > **Há** interação, explicitada no PPC, que
->
 > - **garante**
 >   - a mediação **e**
 >   - a articulação entre tutores, docentes e coordenador do curso.
 
-.
+*Justificativas:*
+
+XXXX
 
 #### Atributos conceito 4
 
+> [!quote] Atributos
 > - **e há** planejamento devidamente documentado de interação para encaminhamento de questões do curso.
 
-.
+*Justificativas:*
+
+XXXX
 
 #### Atributos conceito 5
 
+> [!quote] Atributos
 > -  **e são realizadas** avaliações periódicas para a identificação de problemas ou incremento na interação entre os interlocutores.
 
-.
+*Justificativas:*
+
+XXXX
 
 Portanto, com base nas observações acima, o conceito atribuído é X.
 
 ### Não se aplica
 
-.
+*Justificativas:*
+
+XXXX

@@ -3,11 +3,31 @@ aliases:
 tags:
   - INEP/3-1
 status:
-  - "#zettel/permanent"
-created: "{{date}} {{time}}"
-updated: 2025-04-27T14:35
+note-from-form: {
+	"file-name": "t:{{num}} 3.01 Espaço de trabalho para docentes em Tempo Integral ({{tipo}})",
+	"form-items": [
+		{
+			"id": "num",
+			"type": "number",
+			"form": {
+				"title": "Avaliação nº",
+				"description": "Código da avaliação",
+				"placeholder": "XXXXXX"
+			}
+		},
+		{
+			"id": "tipo",
+			"type": "text",
+			"form": {
+				"title": "Tipo de avaliação",
+				"description": "Autorização (AUT), Reconhecimento (REC) ou Renovação para Reconhecimento (RRC)?",
+				"placeholder": "REC"			
+			}
+		}
+	]
+}
 ---
-# 3.1 Espaço de trabalho para docentes em Tempo Integral (A/R)
+# 3.01 Espaço de trabalho para docentes em Tempo Integral (A/R)
 
 tags:: #INEP/3-1
 
@@ -28,7 +48,7 @@ Reconhecimento: NA
 
 # Evidências para o indicador
 
-Referência: [[11a. Evidências possíveis para as 3 dimensões da avaliação.pdf]]
+Referência: [[Fontes de evidências em 3 dimensões.pdf#page=4]]
 
 XXXXX
 
@@ -60,57 +80,57 @@ XXXXX
 - Ao realizar as visitas os diálogos e relatos de responsáveis pelos setores acrescentam evidências à avaliação.
 - Nas reuniões com todos os segmentos buscar a comprovação do acesso e uso dos recursos.
 
-### Questões norteadoras
-
-*Nível 1*
-
-Os espaços de trabalho para os docentes em tempo integral permitem o planejamento didático e pedagógico?
-
-Os espaços de trabalho para os docentes em tempo integral permitem ações acadêmicas?
-
-Os espaços de trabalho para os docentes em tempo integral atendem às necessidades da instituição?
-
-Os espaços de trabalho para os docentes em tempo integral possuem recursos de TI apropriados?
-
-*Nível 2*
-
-Os espaços de trabalho para os docentes em tempo integral garantem privacidade para uso dos recursos?
-
-Os espaços de trabalho para os docentes em tempo integral garantem privacidade para o atendimento aos estudantes e orientandos?
-
-*Nível 3*
-
-Os espaços de trabalho para os docentes em tempo integral garantem privacidade para guarda de material e equipamentos pessoais com segurança?
-
 # Constatação do avaliador
 
 ## Justificativa
 
-Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa válida]]
 
 Com base nas informações fornecidas e na análise detalhada dos artefatos apensados ao e-MEC e documentação enviada pela IES, corroborados através de reuniões, e da visita à infraestrutura, é atribuído o conceito indicado neste formulário. Esta classificação é respaldada pelas seguintes considerações:
 
 #### Atributos conceito 3
 
-> - Os espaços de trabalho para docentes em Tempo Integral *viabilizam* ações acadêmicas, como
->   - planejamento didático-pedagógico,
-> - *atendem* às necessidades institucionais,
-> - *possuem* recursos de tecnologias da informação e comunicação apropriados**
+> [!quote] Atributos
+> - [ ] Os espaços de trabalho para docentes em Tempo Integral *viabilizam* ações acadêmicas, como
+>   - [ ] planejamento didático-pedagógico,
+> - [ ] *atendem* às necessidades institucionais,
+> - [ ] *possuem* recursos de tecnologias da informação e comunicação apropriados**
 
-.
+> [!question] Questões norteadoras
+> - [ ] Os espaços de trabalho para os docentes em tempo integral permitem o planejamento didático e pedagógico?
+> - [ ] Os espaços de trabalho para os docentes em tempo integral permitem ações acadêmicas?
+> - [ ] Os espaços de trabalho para os docentes em tempo integral atendem às necessidades da instituição?
+> - [ ] Os espaços de trabalho para os docentes em tempo integral possuem recursos de TI apropriados?
+
+*Justificativas:*
+
+XXXX
 
 #### Atributos conceito 4
 
-> - **garantem** privacidade
->   - para uso dos recursos,
->   - para o atendimento a discentes e orientandos,
+> [!quote] Atributos
+> - [ ] **garantem** privacidade
+>   - [ ] para uso dos recursos,
+>   - [ ] para o atendimento a discentes e orientandos,
 
-.
+> [!question] Questões norteadoras
+> - [ ] Os espaços de trabalho para os docentes em tempo integral garantem privacidade para uso dos recursos?
+> - [ ] Os espaços de trabalho para os docentes em tempo integral garantem privacidade para o atendimento aos estudantes e orientandos?
+
+*Justificativas:*
+
+XXXX
 
 #### Atributos conceito 5
 
-> - E para a guarda de material e equipamentos pessoais, *com segurança*.
+> [!quote] Atributos
+> - [ ] E para a guarda de material e equipamentos pessoais, *com segurança*.
 
-.
+> [!question] Questões norteadoras
+> - [ ] Os espaços de trabalho para os docentes em tempo integral garantem privacidade para guarda de material e equipamentos pessoais com segurança?
+
+*Justificativas:*
+
+XXXX
 
 Portanto, com base nas observações acima, o conceito atribuído é X.

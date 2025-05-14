@@ -1,12 +1,24 @@
 ---
-aliases: 
+aliases: []
 tags:
   - INEP/2-11-R
 status:
-  - "#zettel/permanent"
-created: "{{date}} {{time}}"
-updated: 2025-04-27T14:35
+note-from-form: {
+	"file-name": "t:{{num}} 2.11 Experiência no exercício da tutoria na educação a distância",
+	"form-items": [
+		{
+			"id": "num",
+			"type": "number",
+			"form": {
+				"title": "Avaliação nº",
+				"description": "Código da avaliação",
+				"placeholder": "XXXXXX"
+			}
+		}
+	]
+}
 ---
+
 # 2.11 Experiência no exercício da tutoria na educação a distância (R)
 
 tags:: #INEP/2-11-R
@@ -27,61 +39,79 @@ Reconhecimento: XXXX
 
 # Evidências para o indicador
 
-Referência: [[11a. Evidências possíveis para as 3 dimensões da avaliação.pdf]]
-
-XXXXX
+Referência: [[Fontes de evidências em 3 dimensões.pdf#page=4]]
 
 ### Reconhecimento
 
 #### Gerais
 
-- Formulário eletrônico
+- Formulário Eletrônico
 - Documentos
-  - PDI – disponibilizado no e-MEC
-  - PPC – disponibilizado no e-MEC
-- Reuniões entrevista diálogos relatos
-  - Abordar temas relativos a infraestrutura com todos os segmentos
+	- PDI – disponibilizado no e-MEC
+	- PPC – disponibilizado no e-MEC
+	- Documentos institucionais (Regimento)
+	- Atas de NDE
+	- Análise de toda a documentação referente ao corpo docente
+	- Análise de documentação comprobatória
+- Reuniões entrevistas diálogos relatos
+	- Reuniões com coordenador
+	- NDE
+	- Docentes e tutores
+	- Equipe multidisciplinar
+	- Reuniões com estudantes (olhar do estudante em relação ao corpo docente e tutorial)
 
 #### Específicos
 
-- xxxxxxx
-
-### Questões norteadoras
-
-- A experiência do corpo tutorial permite fornecer suporte às atividades dos docentes?
-- O corpo tutorial realiza mediação pedagógica junto aos discentes?
-- O corpo tutorial demonstra inequívoca qualidade no relacionamento com os estudantes?
-- O corpo tutorial incrementa processos de ensino-aprendizagem?
-- O corpo tutorial orienta os alunos, sugerindo atividades e leituras complementares que auxiliam sua formação?
+- N/A
 
 # Constatação do avaliador
 
 ## Justificativa
 
-Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa válida]]
 
 Com base nas informações fornecidas e na análise detalhada dos artefatos apensados ao e-MEC e documentação enviada pela IES, corroborados através de reuniões, é atribuído o conceito indicado neste formulário. Esta classificação é respaldada pelas seguintes considerações:
 
 #### Atributos conceito 3
 
-> - A experiência do corpo tutorial **permite
->   - fornecer** suporte às atividades dos docentes
->   - **e realizar** mediação pedagógica junto aos discentes.
+> [!quote] Atributos
+> - [ ] A experiência do corpo tutorial **permite
+> 	- [ ] fornecer** suporte às atividades dos docentes
+> 	- [ ] **e realizar** mediação pedagógica junto aos discentes.
 
-.
+> [!question] Questões norteadoras
+> - [ ] A experiência do corpo tutorial permite fornecer suporte às atividades dos docentes?
+> - [ ] O corpo tutorial realiza mediação pedagógica junto aos discentes?
+
+*Justificativas:*
+
+XXXX
 
 #### Atributos conceito 4
 
-> - **e demonstrar** inequívoca qualidade no relacionamento com os estudantes,
-> - **incrementando** processos de ensino aprendizagem.
+> [!quote] Atributos
+> - [ ] **e demonstrar** inequívoca qualidade no relacionamento com os estudantes,
+> - [ ] **incrementando** processos de ensino aprendizagem.
 
-.
+> [!question] Questões norteadoras
+> - [ ] O corpo tutorial demonstra inequívoca qualidade no relacionamento com os estudantes?
+> - [ ] O corpo tutorial incrementa processos de ensino-aprendizagem?
+
+*Justificativas:*
+
+XXXX
 
 #### Atributos conceito 5
 
-> -  **e orientar** os alunos,
-> - sugerindo atividades e leituras complementares que auxiliam sua formação.
+> [!quote] Atributos
+> - [ ]  **e orientar** os alunos,
+> - [ ] sugerindo atividades e leituras complementares que auxiliam sua formação.
 
-.
+> [!question] Questões norteadoras
+> - [ ] O corpo tutorial orienta os alunos, sugerindo atividades e leituras complementares que auxiliam sua formação?
+
+*Justificativas:*
+
+XXXX
 
 Portanto, com base nas observações acima, o conceito atribuído é X.

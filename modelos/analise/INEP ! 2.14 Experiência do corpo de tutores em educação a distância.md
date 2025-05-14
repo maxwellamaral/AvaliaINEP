@@ -1,18 +1,30 @@
 ---
-aliases: 
+aliases: []
 tags:
   - INEP/2-14
 status:
-  - "#zettel/permanent"
-created: "{{date}} {{time}}"
-updated: 2025-04-27T14:35
+note-from-form: {
+	"file-name": "t:{{num}} 2.14 Experiência do corpo de tutores em educação a distância",
+	"form-items": [
+		{
+			"id": "num",
+			"type": "number",
+			"form": {
+				"title": "Avaliação nº",
+				"description": "Código da avaliação",
+				"placeholder": "XXXXXX"
+			}
+		}
+	]
+}
 ---
+
 # 2.14 Experiência do corpo de tutores em educação a distância
 
 tags:: #INEP/2-14
 
-Autorização: XXXX
-Reconhecimento: XXXX
+**Autorização**: XXXX
+**Reconhecimento**: XXXX
 
 # Conceitos
 
@@ -28,19 +40,7 @@ Reconhecimento: XXXX
 
 # Evidências para o indicador
 
-Referência: [[11a. Evidências possíveis para as 3 dimensões da avaliação.pdf]]
-
-XXXXX
-
-### Autorização
-
-#### Gerais
-
-- xxxxxxxx
-
-#### Específicos
-
-- xxxxxxx
+Referência: [[Fontes de evidências em 3 dimensões.pdf#page=4]]
 
 ### Reconhecimento
 
@@ -54,10 +54,6 @@ XXXXX
 
 - xxxxxxx
 
-### Questões norteadoras
-
-- xxxxxxxxx
-
 # Constatação do avaliador
 
 ## Justificativa
@@ -68,23 +64,32 @@ Com base nas informações fornecidas e na análise detalhada dos artefatos apen
 
 #### Atributos conceito 3
 
-> - O corpo de tutores **possui** experiência em educação a distância que
-> - **permite** identificar as dificuldades dos discentes,
-> - **expor** o conteúdo em linguagem aderente às características da turma
-> - **e apresentar** exemplos contextualizados com os conteúdos dos componentes curriculares.
+> [!quote] Atributos
+> - [ ] O corpo de tutores **possui** experiência em educação a distância que
+> - [ ] **permite** identificar as dificuldades dos discentes,
+> - [ ] **expor** o conteúdo em linguagem aderente às características da turma
+> - [ ] **e apresentar** exemplos contextualizados com os conteúdos dos componentes curriculares.
 
-.
+*Justificativas:*
+
+XXXX
 
 #### Atributos conceito 4
 
-> - **e elaborar** atividades específicas, em colaboração com os docentes, para a promoção da aprendizagem de alunos com dificuldades.
+> [!quote] Atributos
+> - [ ] **e elaborar** atividades específicas, em colaboração com os docentes, para a promoção da aprendizagem de alunos com dificuldades.
 
-.
+*Justificativas:*
+
+XXXX
 
 #### Atributos conceito 5
 
-> - **e adota** práticas comprovadamente exitosas ou inovadoras no contexto da modalidade a distância.
+> [!quote] Atributos
+> - [ ] **e adota** práticas comprovadamente exitosas ou inovadoras no contexto da modalidade a distância.
 
-.
+*Justificativas:*
+
+XXXX
 
 Portanto, com base nas observações acima, o conceito atribuído é X.

@@ -3,9 +3,29 @@ aliases:
 tags:
   - INEP/2-16
 status:
-  - "#zettel/permanent"
-created: "{{date}} {{time}}"
-updated: 2025-04-27T14:35
+note-from-form: {
+	"file-name": "t:{{num}} 2.16 Produção científica, cultural, artística ou tecnológica ({{tipo}})",
+	"form-items": [
+		{
+			"id": "num",
+			"type": "number",
+			"form": {
+				"title": "Avaliação nº",
+				"description": "Código da avaliação",
+				"placeholder": "XXXXXX"
+			}
+		},
+		{
+			"id": "tipo",
+			"type": "text",
+			"form": {
+				"title": "Tipo de avaliação",
+				"description": "Autorização (AUT), Reconhecimento (REC) ou Renovação para Reconhecimento (RRC)?",
+				"placeholder": "REC"			
+			}
+		}
+	]
+}
 ---
 # 2.16 Produção científica, cultural, artística ou tecnológica (R)
 
@@ -24,7 +44,7 @@ Reconhecimento: XXXX
 
 # Evidências para o indicador
 
-Referência: [[11a. Evidências possíveis para as 3 dimensões da avaliação.pdf]]
+Referência: [[Fontes de evidências em 3 dimensões.pdf#page=3]]
 
 XXXXX
 
@@ -73,11 +93,14 @@ N/A
 
 ## Justificativa
 
-Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa válida]]
 
-> **Pelo menos 50%** dos docentes possuem […] produção nos últimos 3 anos.
+> [!quote] Atributos
+> - [ ] **Pelo menos 50%** dos docentes possuem […] produção nos últimos 3 anos.
 
-.
+*Justificativas:*
+
+XXXX
 
 - [ ] **Não possui** (conceito 1)
 - [ ] No mínimo **1** produção (conceito 2)
@@ -86,6 +109,8 @@ Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo 
 - [ ] No mínimo **7** produção (conceito 4)
 - [ ] No mínimo **9** produção (conceito 5)
 
-.
+*Justificativas:*
+
+XXXX
 
 Portanto, com base nas observações acima, o conceito atribuído é X.

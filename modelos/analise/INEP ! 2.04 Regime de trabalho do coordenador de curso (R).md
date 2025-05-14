@@ -1,29 +1,51 @@
 ---
-aliases: 
+aliases: []
 tags:
   - INEP/2-4
 status:
-  - "#zettel/permanent"
-created: "{{date}} {{time}}"
-updated: 2025-04-27T14:35
+note-from-form: {
+	"file-name": "t:{{num}} 2.04 Regime de trabalho do coordenador de curso ({{tipo}})",
+	"form-items": [
+		{
+			"id": "num",
+			"type": "number",
+			"form": {
+				"title": "Avaliação nº",
+				"description": "Código da avaliação",
+				"placeholder": "XXXXXX"
+			}
+		},
+		{
+			"id": "tipo",
+			"type": "text",
+			"form": {
+				"title": "Tipo de avaliação",
+				"description": "Autorização (AUT), Reconhecimento (REC) ou Renovação para Reconhecimento (RRC)?",
+				"placeholder": "REC"			
+			}
+		}
+	]
+}
 ---
-# 2.4 Regime de trabalho do coordenador de curso (R)
+
+# 2.04 Regime de trabalho do coordenador de curso ({{tipo}})
 
 tags:: #INEP/2-4
 
 Autorização: XXXX
+
 Reconhecimento: XXXX
 
 # Conceitos
 
  **1** - O regime de trabalho do coordenador **não é** de tempo parcial **nem** integral.
-  
+	
 **2** - O regime de trabalho do coordenador é de tempo **parcial**, **mas não** permite o atendimento da demanda existente, **considerando** a gestão do curso, a relação com os docentes, discentes, tutores e equipe multidisciplinar **e** a representatividade nos colegiados superiores.
-  
+	
 **3** - O regime de trabalho do coordenador é de tempo **parcial ou integral e permite** o atendimento da demanda existente, **considerando** a gestão do curso, a relação com os docentes, discentes, tutores e equipe multidisciplinar **e** a representatividade nos colegiados superiores.
-  
+	
 **4** - O regime de trabalho do coordenador é de tempo **integral e permite** o atendimento da demanda existente, **considerando** a gestão do curso, a relação com os docentes, discentes, tutores e equipe multidisciplinar **e** a representatividade nos colegiados superiores, **por meio de um plano de ação** documentado e compartilhado, **com indicadores** disponíveis e públicos com relação ao desempenho da coordenação.
-  
+	
 **5** - O regime de trabalho do coordenador é de tempo **integral e permite** o atendimento da demanda existente, **considerando** a gestão do curso, a relação com os docentes, discentes, tutores e equipe multidisciplinar **e** a representatividade nos colegiados superiores, **por meio de um plano de ação** documentado e compartilhado, **com indicadores** disponíveis e públicos com relação ao desempenho da coordenação, **e proporciona** a administração da potencialidade do corpo docente do seu curso, **favorecendo** a integração e a melhoria contínua.
 
 # Evidências para o indicador
@@ -54,9 +76,12 @@ XXXXX
 
 - xxxxxxx
 
-### Questões norteadoras
+### Observações
 
-- xxxxxxxxx
+- Coordenador é indicado tanto no processo como no oficio de designação. 
+- Caso os avaliadores cheguem in loco e encontre outro coordenador, poderá considerá-lo para avaliação desde que verificado seu vinculo com a IES/curso.
+
+Referência: [[Possibilidades encontradas in loco.pdf#page=7]]
 
 # Constatação do avaliador
 
@@ -68,27 +93,36 @@ Com base nas informações fornecidas e na análise detalhada dos artefatos apen
 
 #### Atributos conceito 3
 
-> - O regime de trabalho do coordenador é de tempo **parcial ou integral
-> - e permite** o atendimento da demanda existente,
-> - **considerando**
->   - a gestão do curso,
->   - a relação com os docentes, discentes, tutores e equipe multidisciplinar
->   - **e** a representatividade nos colegiados superiores.
+> [!quote] Atributos
+> - [ ] O regime de trabalho do coordenador é de tempo **parcial ou integral
+> - [ ] e permite** o atendimento da demanda existente,
+> - [ ] **considerando**
+> 	- [ ] a gestão do curso,
+> 	- [ ] a relação com os docentes, discentes, tutores e equipe multidisciplinar
+> 	- [ ] **e** a representatividade nos colegiados superiores.
 
-.
+*Justificativas:*
+
+XXXX
 
 #### Atributos conceito 4
 
-> - **por meio de um plano de ação** documentado e compartilhado,
-> - **com indicadores** disponíveis e públicos com relação ao desempenho da coordenação.
+> [!quote] Atributos
+> - [ ] **por meio de um plano de ação** documentado e compartilhado,
+> - [ ] **com indicadores** disponíveis e públicos com relação ao desempenho da coordenação.
 
-.
+*Justificativas:*
+
+XXXX
 
 #### Atributos conceito 5
 
-> - **e proporciona** a administração da potencialidade do corpo docente do seu curso,
-> - **favorecendo** a integração e a melhoria contínua.
+> [!quote] Atributos
+> - [ ] **e proporciona** a administração da potencialidade do corpo docente do seu curso,
+> - [ ] **favorecendo** a integração e a melhoria contínua.
 
-.
+*Justificativas:*
+
+XXXX
 
 Portanto, com base nas observações acima, o conceito atribuído é X.

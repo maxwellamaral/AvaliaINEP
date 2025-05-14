@@ -1,17 +1,40 @@
 ---
-aliases: 
-tags: 
-status:
-  - "#zettel/permanent"
-created: "{{date}} {{time}}"
-updated: 2025-04-27T14:35
+aliases: []
+tags:
+  - INEP/3-14
+status: ["#zettel/permanent"]
+note-from-form: {
+	"file-name": "t:{{num}} 3.14 Processo de controle de produção ou distribuição de material didático ({{tipo}})",
+	"form-items": [
+		{
+			"id": "num",
+			"type": "number",
+			"form": {
+				"title": "Avaliação nº",
+				"description": "Código da avaliação",
+				"placeholder": "XXXXXX"
+			}
+		},
+		{
+			"id": "tipo",
+			"type": "text",
+			"form": {
+				"title": "Tipo de avaliação",
+				"description": "Autorização (AUT), Reconhecimento (REC) ou Renovação para Reconhecimento (RRC)?",
+				"placeholder": "REC"			
+			}
+		}
+	]
+}
 ---
+
 # 3.14 Processo de controle de produção ou distribuição de material didático (AR)
 
 tags:: #INEP/3-14
 
-Autorização: _NSA para cursos que não contemplam material didático no PPC._
-Reconhecimento: _NSA para cursos que não contemplam material didático no PPC._
+Autorização: *NSA para cursos que não contemplam material didático no PPC.*
+
+Reconhecimento: *NSA para cursos que não contemplam material didático no PPC.*
 
 # Conceitos
 
@@ -29,15 +52,18 @@ Reconhecimento: _NSA para cursos que não contemplam material didático no PPC._
 
 # Evidências para o indicador
 
-Referência: [[11a. Evidências possíveis para as 3 dimensões da avaliação.pdf]]
-
-XXXXX
+Referência: [[Fontes de evidências em 3 dimensões.pdf#page=5]]
 
 ### Autorização
 
 #### Gerais
 
-- xxxxxxxx
+- PDI – disponibilizado no e-MEC
+- PPC – disponibilizado no e-MEC
+
+Reuniões | entrevistas | diálogos | relatos
+
+- Abordar temas relativos a infraestrutura com todos os segmentos
 
 #### Específicos
 
@@ -49,49 +75,61 @@ XXXXX
 
 - Formulário eletrônico
 - Documentos
-  - PDI – disponibilizado no e-MEC
-  - PPC – disponibilizado no e-MEC
+	- PDI – disponibilizado no e-MEC
+	- PPC – disponibilizado no e-MEC
 - Reuniões | entrevista | diálogos | relatos
-  - Abordar temas relativos a infraestrutura com todos os segmentos
+	- Abordar temas relativos a infraestrutura com todos os segmentos
 
 #### Específicos
 
 - Acesso e análise do sistema, fluxos, operação.
 
-### Questões norteadoras
-
-- O processo de controle de produção ou distribuição de material didático está formalizado?
-- O processo de controle de produção ou distribuição de material didático atende à demanda?
-- O processo de controle de produção ou distribuição de material didático possui plano de contingência para a garantia de continuidade de funcionamento?
-- O processo de controle de produção ou distribuição de material didático dispõe de um sistema informatizado de acompanhamento para gerenciamento dos processos?
-- O sistema informatizado de acompanhamento utilizado no controle de produção ou distribuição de material didático utiliza indicadores bem definidos?
-
 # Constatação do avaliador
 
 ## Resumo
 
-Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa]]
+Referência: [[Observações importantes sobre o INEP e as avaliações#Exemplo de justificativa válida]]
 
 Com base nas informações fornecidas e na análise detalhada dos artefatos apensados ao e-MEC e documentação enviada pela IES, corroborados através de reuniões, e da visita à infraestrutura, é atribuído o conceito indicado neste formulário. Esta classificação é respaldada pelas seguintes considerações:
 
 #### Atributos conceito 3
 
-> - O processo de controle de produção ou distribuição de material didático **está** formalizado,
-> - **atende** à demanda
-> - **e possui** plano de contingência para a garantia de continuidade de funcionamento
+> [!quote] Atributos
+> - [ ] O processo de controle de produção ou distribuição de material didático **está** formalizado,
+> - [ ] **atende** à demanda
+> - [ ] **e possui** plano de contingência para a garantia de continuidade de funcionamento
 
-.
+> [!question] Questões norteadoras
+> - [ ] O processo de controle de produção ou distribuição de material didático está formalizado?
+> - [ ] O processo de controle de produção ou distribuição de material didático atende à demanda?
+> - [ ] O processo de controle de produção ou distribuição de material didático possui plano de contingência para a garantia de continuidade de funcionamento?
+
+*Justificativas:*
+
+XXXX
 
 #### Atributos conceito 4
 
-> - **dispõe** de um sistema informatizado de acompanhamento para gerenciamento dos processos,
+> [!quote] Atributos
+> - [ ] **dispõe** de um sistema informatizado de acompanhamento para gerenciamento dos processos,
 
-.
+> [!question] Questões norteadoras
+> - [ ] O processo de controle de produção ou distribuição de material didático dispõe de um sistema informatizado de acompanhamento para gerenciamento dos processos?
+
+*Justificativas:*
+
+XXXX
 
 #### Atributos conceito 5
 
-> **com** uso de indicadores bem definidos.
+> [!quote] Atributos
+> - [ ] **com** uso de indicadores bem definidos.
 
-.
+> [!question] Questões norteadoras
+> - [ ] O sistema informatizado de acompanhamento utilizado no controle de produção ou distribuição de material didático utiliza indicadores bem definidos?
+
+*Justificativas:*
+
+XXXX
 
 Portanto, com base nas observações acima, o conceito atribuído é X.
