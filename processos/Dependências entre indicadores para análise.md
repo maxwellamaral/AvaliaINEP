@@ -5,12 +5,14 @@ tags:
 status:
   - "#zettel/permanent"
 created: 2024-05-16T18:07:00
-updated: 2025-04-27T20:18
+updated: 2025-05-02T11:36
 state: "[[Final]]"
 ---
 
+*Use `SHIFT + botão rolagem do mouse` para visualizar diagrama para direita e esquerda.*
+
 ```mermaid
-flowchart TD
+flowchart LR
     id1.1(1.1 - PDI):::green
 	id1.2(1.2 - Objetivos do curso):::green
 	id1.3(1.3 - Perfil do egresso):::green
